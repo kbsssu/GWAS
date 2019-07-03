@@ -28,7 +28,7 @@ github_username:  kbsssu
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
