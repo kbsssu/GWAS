@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /GWAS/setup/
+permalink: /setup/
 ---
 
 실습에 참여하시는 분들은 실습 참여 전 아래의 소프트웨어 및 툴들을 설치해주시기 부탁드립니다.
@@ -42,7 +42,7 @@ permalink: /GWAS/setup/
 
 - **Windows:** [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html){: target="blank" } 실행
 
-[**Windows MobaXterm 사용법**]({% post_url 2018-11-01-server_win %}) 을 참고하여 서버 접속
+[**Windows MobaXterm 사용법**]({% post_url 2019-07-03-server_win %}) 을 참고하여 서버 접속
 
 
 - **Mac OS X:** Terminal (위치: /Applications/Utilities) 실행 후 shell에 아래 command를 입력하여 서버 접속  
